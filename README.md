@@ -1,4 +1,4 @@
-# aula_cpp
+# introducao c++
 repositorio criado para guardar alguns exemplos de codigos que usei para ministrar uma aula de introducao ao c++, com algumas maneiras de representar grafos.
 
 ## documentos
