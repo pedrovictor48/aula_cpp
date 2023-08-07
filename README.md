@@ -5,7 +5,7 @@ repositorio criado para guardar alguns exemplos de codigos que usei para ministr
 https://github.com/pedrovictor48/aula_cpp/blob/main/slide.pdf (slide)  
 https://en.cppreference.com/w/cpp/header (documentacao STL)  
 https://cp-algorithms.com/graph/breadth-first-search.html#description-of-the-algorithm (algoritmo bfs)  
-https://cp-algorithms.com/graph/bipartite-check.html#algorithm (checar bipartite)  
+https://cp-algorithms.com/graph/bipartite-check.html#algorithm (checar bipartite, se sobrou tempo na aula)  
 
 ## codigos
 1. lista de adjacencia:  
