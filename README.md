@@ -1,6 +1,11 @@
 # introducao c++
 repositorio criado para guardar alguns exemplos de codigos que usei para ministrar uma aula de introducao ao c++, com algumas maneiras de representar grafos.
 
+## comandos
+1. `g++ codigo.cpp -o codigo` (compilar gerando um executavel)  
+2. `./codigo < arquivo_entrada` (executar recebendo o arquivo como entrada)  
+3. `g++ codigo.cpp -o codigo && ./codigo < arquivo_entrada` (os dois ao mesmo tempo)
+
 ## documentos
 https://github.com/pedrovictor48/aula_cpp/blob/main/slide.pdf (slide)  
 https://en.cppreference.com/w/cpp/header (documentacao STL)  
