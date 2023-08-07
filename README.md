@@ -14,3 +14,5 @@ https://cp-algorithms.com/graph/breadth-first-search.html#description-of-the-alg
   * https://github.com/pedrovictor48/aula_cpp/blob/main/aula_cpp/matriz_adj.cpp (sem peso)  
   * https://github.com/pedrovictor48/aula_cpp/blob/main/aula_cpp/peso_matriz.cpp (com peso)  
 
+grafo com peso (0-indexado): https://github.com/pedrovictor48/aula_cpp/blob/main/aula_cpp/grafo_peso  
+grafo simples sem peso (1-indexado): https://github.com/pedrovictor48/aula_cpp/blob/main/aula_cpp/grafo  
