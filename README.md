@@ -15,5 +15,6 @@ https://cp-algorithms.com/graph/bipartite-check.html#algorithm (checar bipartite
   * https://github.com/pedrovictor48/aula_cpp/blob/main/aula_cpp/matriz_adj.cpp (sem peso)  
   * https://github.com/pedrovictor48/aula_cpp/blob/main/aula_cpp/peso_matriz.cpp (com peso)  
 
+## exemplos de entradas
 grafo com peso (0-indexado): https://github.com/pedrovictor48/aula_cpp/blob/main/aula_cpp/grafo_peso  
 grafo simples sem peso (1-indexado): https://github.com/pedrovictor48/aula_cpp/blob/main/aula_cpp/grafo  
