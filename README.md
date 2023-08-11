@@ -1,5 +1,5 @@
 # introducao c++
-repositorio criado para guardar alguns exemplos de codigos que usei para ministrar uma aula de introducao ao c++, com algumas maneiras de representar grafos.
+repositorio criado para guardar alguns exemplos de codigos que usei para ministrar uma aula de introducao ao c++, para a disciplina de teoria dos grafos de uma turma de graduacao em ciencia da computacao, com algumas maneiras de representar grafos.
 
 ## comandos
 1. `g++ codigo.cpp -o codigo` (compilar gerando um executavel)  
