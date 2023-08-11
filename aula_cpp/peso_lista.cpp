@@ -18,7 +18,7 @@ int main() {
 		cout << u << ": ";
 		cout << '[';
 		for(pair<int, int> par : adj[u]) {
-			cout << '(' << par.first << ' ' << par.second << ')' << ' ';
+			cout << '(' << par.first << ", " << par.second << ')' << ' ';
 		}
 		cout << ']' << endl;
 	}
